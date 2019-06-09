@@ -8,7 +8,7 @@
 - [Kennan Salinero, Biochemist]()
 - [Masha Aseeva, Bioinformatics software engineer]()
 - [Nikhita Damaraju, Biosciences Undergrad]()
-- [Nitin Pasumarthy, Applied Machine Learning Engineer]()
+- [Nitin Pasumarthy, Applied Machine Learning Engineer](https://www.linkedin.com/in/nitinpasumarthy/)
 
 #### Deck [Link](https://docs.google.com/presentation/d/1ZXT5jUo6xXdOTiBgAHEMkdiA7NQvlT2sAEywak2mAVI/edit#slide=id.g5b3afa7024_3_0)
 
