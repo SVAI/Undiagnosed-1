@@ -10,7 +10,8 @@ https://drive.google.com/drive/folders/1i7SZeH3luCQZQ3zq-oc697RupZSmNXA4
 ## Medical Records with 'unknown' (case insensitive search)
 https://drive.google.com/drive/folders/1fniFmvDnJhPOVbosuLyXeQCS_2GzTKC6
 
-
+## Presentation
+https://onedrive.live.com/view.aspx?resid=A775D92F6406F593!284&ithint=file%2cpptx&authkey=!AHlWQWYqUYAT4Kw
 
 ## Team Members (in alphabetical order):
 [Biter Bilen](https://www.linkedin.com/in/biterbilen/)
