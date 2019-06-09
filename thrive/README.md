@@ -14,6 +14,8 @@ Our goal was to combine genotype and phenotype information by combining variant 
 
 ## UK Biobank
 ![uk_biobank](images/uk_biobank.png)
+![disorders](images/disorders.png)
+![autoimmune](images/autoimmune.png)
 
 ## Gene Set Analysis
 ![gene_set](images/wgs_geneset_enrichment.png)
