@@ -1,8 +1,8 @@
 
 ![](timeline1.png)
 
-![](IMG_2209.jpg)
+![](IMG_2209.JPG)
 
-![](raptors-undiagnosed.pdf)
+![](raptors-undiagnosed.png)
 
 ![](pedigree.png)
