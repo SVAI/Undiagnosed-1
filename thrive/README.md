@@ -1,5 +1,6 @@
 # Team Thrive: Combining Genotype and Medical Record Information
-### Team Members
+
+## Team Members
 ##### Arkarchai Fungtammasan, Saurabh Paliwal, Chiao-Feng Lin, Saikrithika Gandhi, Lee Yi Jie Joel, Gunjan Baid
 ![team](images/team.jpg)
 
