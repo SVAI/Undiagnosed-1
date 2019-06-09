@@ -7,7 +7,7 @@ Team Members:
 * Lei Pan, MS, Databricks
 * Jordan Wilheim
 * Candace Liu, Stanford
-* Andrew Sharo, Sanford
+* Andrew Sharo, Stanford
 
 Our Approach
 Find SNPs in WGS (DeepVariant) vcfs within gene coding regions and 500 bp away from gene coding.
