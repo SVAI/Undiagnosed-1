@@ -11,6 +11,10 @@ https://drive.google.com/drive/folders/1i7SZeH3luCQZQ3zq-oc697RupZSmNXA4
 https://drive.google.com/drive/folders/1fniFmvDnJhPOVbosuLyXeQCS_2GzTKC6
 
 
+# Presentation Links:
+https://docs.google.com/presentation/d/1crlPpzL2xx6-Sk8Uc_zOWz8fVLVucLa6QJUTqqlpwEs/edit#slide=id.p
+https://onedrive.live.com/view.aspx?resid=A775D92F6406F593!284&ithint=file%2cpptx&authkey=!AHlWQWYqUYAT4Kw
+
 
 ## Team Members (in alphabetical order):
 [Biter Bilen](https://www.linkedin.com/in/biterbilen/)
