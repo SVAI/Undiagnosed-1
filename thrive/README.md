@@ -1,1 +1,6 @@
-
+![approach](images/approach.png)
+![data](images/data.png)
+![ingenuity_analysis_slide1](images/ingenuity_analysis_slide1.png)
+![ingenuity_analysis_slide2](images/ingenuity_analysis_slide2.png)
+![uk_biobank](images/uk_biobank.png)
+![future_direction](images/future_direction.png)
