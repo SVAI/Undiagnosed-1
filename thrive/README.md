@@ -7,11 +7,16 @@ Arkarchai Fungtammasan, Saurabh Paliwal, Chiao-Feng Lin, Saikrithika Gandhi, Lee
 Our goal was to combine genotype and phenotype information by combining variant calls with medical record data. We extracted medical keywords from all of the patient records and used the words to filter out the called genetic variants. We used the resulting set of variants from Qiagen Variant analysis as a starting point for further downstream analysis.
 ![approach](images/approach.png)
 
-![data](images/data.png)
+## Ingenuity Analysis
 ![ingenuity_analysis_slide1](images/ingenuity_analysis_slide1.png)
 ![ingenuity_analysis_slide2](images/ingenuity_analysis_slide2.png)
+
+## UK Biobank
 ![uk_biobank](images/uk_biobank.png)
+
+## Gene Set Analysis
 ![gene_set](images/wgs_geneset_enrichment.png)
+![goslim](images/goslim_summary.png)
 
 ## Future direction
 ![future_direction](images/future_direction.png)
