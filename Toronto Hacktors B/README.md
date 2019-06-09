@@ -9,6 +9,4 @@ We hypothesised that causal variants in non-coding genome would be more challeng
 **Watch this video for a summary of our project:**
 **[Video](https://drive.google.com/open?id=1wBYi-VnvkTh-T91QKmmV9yML0a_3mwZM)**
 
-See pipeline_image.png in this directory.
-
-[pipeline image](https://github.com/SVAI/Undiagnosed-1/blob/master/Toronto%20Hacktors%20B/pipeline_image.png)
+![pipeline image](pipeline_image.png)
