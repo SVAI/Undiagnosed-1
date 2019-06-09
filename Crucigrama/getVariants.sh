@@ -1,0 +1,11 @@
+grep frameshift_variant UCqcWxeG4pF0tY8u.vep.txt > vep.deleterious.vep.with.duplicates.txt
+grep inframe_deletion UCqcWxeG4pF0tY8u.vep.txt >> vep.deleterious.vep.with.duplicates.txt
+grep inframe_insertion UCqcWxeG4pF0tY8u.vep.txt >> vep.deleterious.vep.with.duplicates.txt
+grep protein_altering_variant UCqcWxeG4pF0tY8u.vep.txt >> vep.deleterious.vep.with.duplicates.txt
+grep splice_acceptor_variant UCqcWxeG4pF0tY8u.vep.txt >> vep.deleterious.vep.with.duplicates.txt
+grep splice_donor_variant UCqcWxeG4pF0tY8u.vep.txt >> vep.deleterious.vep.with.duplicates.txt
+grep start_lost UCqcWxeG4pF0tY8u.vep.txt >> vep.deleterious.vep.with.duplicates.txt
+grep start_retained_variant UCqcWxeG4pF0tY8u.vep.txt >> vep.deleterious.vep.with.duplicates.txt
+grep stop_gained UCqcWxeG4pF0tY8u.vep.txt >> vep.deleterious.vep.with.duplicates.txt
+grep stop_lost UCqcWxeG4pF0tY8u.vep.txt >> vep.deleterious.vep.with.duplicates.txt
+grep stop_retained_variant UCqcWxeG4pF0tY8u.vep.txt >> vep.deleterious.vep.with.duplicates.txt
