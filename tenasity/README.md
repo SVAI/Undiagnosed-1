@@ -2,7 +2,7 @@
 ## Team Name: Tenasity (old name: Team9)
 
 ## Slack Channel:
-svai.slack.com#tenasity
+[svai.slack.com#tenasity](https://svai.slack.com)
 
 ## Google Drive:
 https://drive.google.com/drive/folders/1i7SZeH3luCQZQ3zq-oc697RupZSmNXA4
@@ -23,7 +23,7 @@ https://drive.google.com/drive/folders/1fniFmvDnJhPOVbosuLyXeQCS_2GzTKC6
 
 [Holly Deremo](https://www.linkedin.com/in/hderemo/)
 
-Jared Bennett
+[Jared Bennett](https://www.linkedin.com/in/jared-bennett-21a7a9a0/)
 
 [Julide Bilen (Yes, sisters)](https://www.linkedin.com/in/julide-bilen-phd-63485a17/)
 
@@ -45,8 +45,8 @@ Sarah D
 ## Helping Us (thank you):
 [Ben Busby](https://www.linkedin.com/in/dcgenomics/)
 
-Cosmo
+[Clinton (Cosmo) Mielke](https://www.linkedin.com/in/cjmielke/)
 
-Pete Kane
+[PWE 'Pete' Kane](https://www.linkedin.com/in/pwekane/)
 
 
