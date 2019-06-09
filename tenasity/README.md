@@ -39,7 +39,7 @@ https://onedrive.live.com/view.aspx?resid=A775D92F6406F593!284&ithint=file%2cppt
 
 [Rena Yang](https://www.linkedin.com/in/renawyang/)
 
-Sarah D
+[Sarah Daniels](https://www.linkedin.com/in/sarahidaniels/)
 
 [Sree Vaddi](https://www.linkedin.com/in/sreeatwork/)
 
