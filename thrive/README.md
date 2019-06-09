@@ -1,4 +1,7 @@
 # Team Thrive: Combining Genotype and Medical Record Information
+### Team Members
+Arkarchai Fungtammasan, Saurabh Paliwal, Chiao-Feng Lin, Saikrithika Gandhi, Lee Yi Jie Joel, Gunjan Baid
+![team](images/team.jpg)
 
 ## Approach
 Our goal was to combine genotype and phenotype information by combining variant calls with medical record data. We extracted medical keywords from all of the patient records and used the words to filter out the called genetic variants. We used the resulting set of variants from Qiagen Variant analysis as a starting point for further downstream analysis.
@@ -12,7 +15,7 @@ Our goal was to combine genotype and phenotype information by combining variant 
 
 ## Future direction
 ![future_direction](images/future_direction.png)
-* Exploration of Structural variant
+* Exploration of structural variants
   * Consensus approach for variant calling
         https://www.biorxiv.org/content/biorxiv/early/2018/09/23/424267.full.pdf
         ![recall_rate](images/recall_rate.png)
