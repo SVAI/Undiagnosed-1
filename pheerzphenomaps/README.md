@@ -40,4 +40,18 @@ Attempted to perform variant calling on Oxford Nanopore Long Read data
 
 2. TBD: Variant call results from step 1
 
+#### Looking for genetic/metabolic pathways that may be inefficient/inactive and combinations of pathways that may additively cause multi-factorial impacts (‘pile-ups’) affecting John’s health outcomes.
+
+	•	Components:
+	•	Consulting blood, urine, and genetic analytic work from medical charts, create a list of metabolites, proteins, and antibody reactivities to identify possible pathways and disease states of interest.
+	•	Create a Biological Context filter set to screen variants in John’s various genomic data sets to look for instances of variants mapping to these screens
+	•	Add upstream and down-stream hops in data screening to find sets of associations – genes within a pathway – that may additively affect John’s ability to process particular metabolites, or to have an effective biological pathway (signaling, growth, response, immunity, etc).
+	•	Outcome
+	•	Compare sets of gene variants identified, with and without gene family/pathway association via the ‘hopping’ filter
+	•	Background:
+	•	By accident, Nikhita and I had searched the same vcf dataset and got opposite, almost non-overlapping results with respect to genes.  However, we found that I was getting genes that were part of the same pathway, but different components of the pathway.
+	•	We investigated, after mapping out the dimensions of the non-overlap.  We found that the difference was solely due to my inclusion of the ‘hop’ feature in the biological context filter.  
+	•	Therefore we were selecting, in our case, genes downstream of the genes in the biological context screen.  Therefore we were obtaining genes along the chromosome that were nearby, and that were part of functional groups co-localized in the genome.
+
+
 
