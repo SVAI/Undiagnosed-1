@@ -10,8 +10,7 @@
 - [Nikhita Damaraju, Biosciences Undergrad]()
 - [Nitin Pasumarthy, software engineer]()
 
-#### Deck
-[Link](https://docs.google.com/presentation/d/1ZXT5jUo6xXdOTiBgAHEMkdiA7NQvlT2sAEywak2mAVI/edit#slide=id.g5b3afa7024_3_0)
+#### Deck [Link](https://docs.google.com/presentation/d/1ZXT5jUo6xXdOTiBgAHEMkdiA7NQvlT2sAEywak2mAVI/edit#slide=id.g5b3afa7024_3_0)
 
 #### Generate pathway images with variant genes highlighted
 
@@ -51,6 +50,7 @@ Attempted to perform variant calling on Oxford Nanopore Long Read data
 	Outcome
 	
 	•	Compare sets of gene variants identified, with and without gene family/pathway association via the ‘hopping’ filter
+	
 	Background:
 	
 	•	By accident, Nikhita and I had searched the same vcf dataset and got opposite, almost non-overlapping results with respect to genes.  However, we found that I was getting genes that were part of the same pathway, but different components of the pathway.
