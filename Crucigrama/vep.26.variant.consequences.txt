@@ -1,0 +1,29 @@
+15269 TF_binding_site_variant
+ 184 coding_sequence_variant
+80109 downstream_gene_variant
+   5 incomplete_terminal_codon_variant
+1459 intergenic_variant
+747975 intron_variant
+13516 non_coding_transcript_exon_variant
+61028 non_coding_transcript_variant
+65062 regulatory_region_variant
+14425 splice_region_variant
+50779 synonymous_variant
+68936 upstream_gene_variant
+29954 3_prime_UTR_variant
+14126 5_prime_UTR_variant
+
+
+41825 missense_variant
+
+ 991 frameshift_variant
+ 924 inframe_deletion
+ 732 inframe_insertion
+  43 protein_altering_variant
+ 218 splice_acceptor_variant
+ 215 splice_donor_variant
+  92 start_lost
+   5 start_retained_variant
+ 375 stop_gained
+  61 stop_lost
+  69 stop_retained_variant
