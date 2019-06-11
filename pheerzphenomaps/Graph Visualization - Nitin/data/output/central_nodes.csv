@@ -1,0 +1,761 @@
+﻿Gene__Phenotype,centrality
+BRAF,42405.85662876132
+CTNNB1,28036.89469380332
+NF1,18657.24427096445
+RB1,12678.737881176638
+MEN1,11526.395395167743
+PDGFRB,9074.374118004609
+CDH1,8575.68240913276
+GRIN2A,8337.905692797103
+PPARG,8103.218185236294
+TSC1,7293.13400611379
+PRKAR1A,7119.768387555616
+FASN,5291.2659055385375
+PPP2R1A,4435.529512404623
+FZR1,4349.045339122074
+"DIABETES MELLITUS, NONINSULIN-DEPENDENT",4071.0
+ESR1,3767.2834522113835
+Autosomal Recessive Mental Retardation,3575.0
+MYB,3359.130696608704
+GCK,3075.0
+NFE2L2,2638.190410092911
+PMS2,2553.527168007368
+STAT6,2288.0889323305764
+RAC1,2002.361067733708
+bladder carcinoma,1935.8018442980356
+colorectal adenocarcinoma,1935.8018442980353
+colon adenocarcinoma,1935.8018442980353
+Lung adenocarcinoma,1935.8018442980353
+Cutaneous melanoma,1935.8018442980353
+Melanoma,1907.9566868835193
+Breast carcinoma,1885.1539643524764
+Endometrial Endometrioid Adenocarcinoma,1885.1539643524764
+breast ductal adenocarcinoma,1885.1539643524764
+cecum adenocarcinoma,1863.8923328763412
+gastric adenocarcinoma,1857.5082846684109
+Esophageal Squamous Cell Carcinoma,1849.5667065115326
+Clear cell renal carcinoma,1820.969405806321
+Hepatocellular Carcinoma,1678.901114017068
+prostate adenocarcinoma,1666.2294848355841
+squamous cell lung carcinoma,1621.2698960021746
+thyroid carcinoma,1617.9161036099194
+bile duct carcinoma,1606.8196249138202
+Small cell lung carcinoma,1584.0457772861382
+Basal cell carcinoma,1556.9352430793883
+LAMA1,1542.0
+bladder transitional cell carcinoma,1509.7414503335856
+rectal adenocarcinoma,1479.7776942555229
+pancreatic ductal adenocarcinoma,1420.200750833134
+prostate carcinoma,1399.1783027356882
+cervical squamous cell carcinoma,1384.1597286513718
+NCOR2,1360.048965839659
+Esophageal adenocarcinoma,1289.1843060015278
+gastric intestinal type adenocarcinoma,1284.2789673647717
+DNAJB1,1221.9033631137443
+CTNND1,1212.9544566220743
+Thyroid Gland Undifferentiated (Anaplastic) Carcinoma,1189.0261623412412
+Lung carcinoma,1179.931335785487
+FGFR4,1130.0138422402852
+Merkel cell skin cancer,1127.5114843036297
+Papillary thyroid carcinoma,1085.1865996776364
+CDK6,1079.8513009204937
+ovarian serous adenocarcinoma,1043.9214849027153
+ASCL1,1029.0
+HER2 Positive Breast Carcinoma,860.1596806150142
+head and neck squamous cell carcinoma,842.8489886574351
+oral cavity cancer,828.400824577383
+pancreatic neuroendocrine tumor,814.9568227876036
+invasive lobular carcinoma,803.2504793857225
+Pancreatic Acinar Cell Carcinoma,797.2894675208337
+nasopharyngeal squamous cell carcinoma,796.2767056926872
+follicular thyroid carcinoma,794.881812327683
+oral squamous cell carcinoma,793.1406783467539
+diffuse large B-cell lymphoma,768.4497431371786
+esophageal carcinoma,753.3218280383603
+Gallbladder Adenocarcinoma,753.2806293504402
+central nervous system cancer,743.2108073217421
+diffuse gastric adenocarcinoma,710.7033598932658
+non-small cell lung carcinoma,696.3182475084865
+Ampulla of Vater Carcinoma,677.4127524030181
+FOXO3,671.7028233761004
+Pleural Epithelioid Mesothelioma,671.3830990179724
+Papillary renal cell carcinoma,620.7574541903099
+Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation,557.5897227526043
+lymphoid neoplasm,549.7495972430402
+Chronic lymphocytic leukemia,530.0792306570528
+Acute myeloid leukemia,510.66190149534475
+leiomyosarcoma,496.0957794908336
+Mixed Lobular and Ductal Breast Carcinoma,496.0857037785558
+thyroid neoplasm,486.7342978323642
+pharyngeal squamous cell carcinoma,483.9394823420699
+Breast Carcinoma by Gene Expression Profile,465.68060038578943
+HIF1A,457.04706899442675
+undifferentiated pleomorphic sarcoma,429.83454284154595
+HSP90AA1,424.3776538262235
+ovarian carcinoma,421.4399066875028
+Uterine Carcinosarcoma,402.98208173889907
+Pleural Biphasic Mesothelioma,394.8461321575133
+T-cell acute lymphoblastic leukemia,381.27368842325706
+NCOA4,376.98239943728566
+NFATC2,359.8351330345138
+adrenal cortex carcinoma,354.16702406426083
+pancreatic carcinoma,354.16702406426083
+gastric carcinoma,353.2694105744644
+metaplastic breast carcinoma,347.8834913308448
+embryonal rhabdomyosarcoma,333.6239495694353
+Endometrial Clear Cell Adenocarcinoma,320.6309003864113
+Appendix Adenocarcinoma,317.31402146963325
+colon carcinoma,305.1451895693648
+Ovarian Endometrioid Adenocarcinoma,297.5182531160733
+OSTEOSARCOMA,293.60524213819065
+Duodenal Adenocarcinoma,285.58162346229227
+adenosquamous lung carcinoma,278.1306047965527
+Endometrial carcinoma,265.7723902591377
+ovarian mucinous adenocarcinoma,240.5704701784865
+Bladder Adenocarcinoma,219.88918324577335
+endometrium adenocarcinoma,213.69910329371947
+Invasive Breast Carcinoma,188.29330167643812
+adrenocortical adenoma,181.31239631588628
+neoplasm of mature B-cells,169.3558736689644
+Ocular Sebaceous Carcinoma,169.22054539531814
+MYELODYSPLASTIC SYNDROME,168.34877070848788
+bronchoalveolar adenocarcinoma,161.0588656620576
+Cortisol-Producing Adrenal Cortex Adenoma,160.3338378611326
+angiosarcoma,158.921073941109
+angioimmunoblastic T-cell lymphoma,151.92156844412133
+Conjunctival Melanoma,151.80518944060665
+Multiple myeloma,147.4294195864031
+ND,144.07003268812332
+Dysplasia in Ulcerative Colitis,139.89154353219104
+pulmonary blastoma,139.85113220222854
+ovarian teratoma,139.6895944571758
+Acute lymphoblastic leukemia,136.07974443789178
+Ulcerative colitis,132.5415829193079
+Rhabdomyosarcoma,130.8569895107409
+kidney neoplasm,130.4396961896156
+Gliosarcoma,127.93514675735153
+Ovarian neoplasm,125.67688854372516
+Laryngeal squamous cell carcinoma,124.93566479949038
+Renal cell carcinoma,124.16173738417903
+B-cell acute lymphoblastic leukemia,123.23603234905396
+lung carcinoid tumor,113.29538732183683
+Thyroid Gland Oncocytic Follicular Carcinoma,107.26576262772582
+Anal Squamous Cell Carcinoma,106.80339816351984
+Chronic myelomonocytic leukemia,106.73476600128075
+testicular seminoma,105.88558044002788
+VCP,105.0
+Colorectal adenoma,95.8349990958576
+liposarcoma,95.8349990958576
+Benign Thyroid Gland Neoplasm,92.55046339413366
+CASP9,90.64883983172314
+soft tissue sarcoma,87.58690162631694
+ovarian clear cell adenocarcinoma,86.16523218071436
+adrenal gland pheochromocytoma,84.6302022074149
+Alveolar rhabdomyosarcoma,84.12002460079118
+Oligoastrocytoma,80.73329360512072
+Hairy cell leukemia,75.30434867216356
+Gastric Neuroendocrine Tumor G1,72.96449498356797
+Endometrial Undifferentiated Carcinoma,66.32831040116395
+Non-Functional Pancreatic Neuroendocrine Tumor,65.62921287208738
+MYH6,65.0
+Thymic Undifferentiated Carcinoma,63.61884391868104
+Salivary Gland Carcinoma ex Pleomorphic Adenoma,62.270142844880425
+Neoplasm,62.270142844880425
+Amyotrophic lateral sclerosis,62.0
+pseudomyxoma peritonei,59.78367896799904
+large cell lung carcinoma,59.08922509191361
+Astrocytoma,56.988802630890156
+Thymic Squamous Cell Carcinoma,56.988802630890156
+Chromophobe renal cell carcinoma,55.14179279974004
+blue nevus,49.564092712845145
+transitional cell carcinoma of kidney,47.55420705216837
+Adamantinomatous Craniopharyngioma,47.55420705216837
+Craniopharyngioma,47.55420705216837
+Rectal Traditional Serrated Adenoma,47.55420705216837
+Borderline Ovarian Serous Tumor,47.55420705216837
+cervical adenocarcinoma,47.55420705216837
+Synovial sarcoma,47.55420705216837
+Atypical Endometrial Hyperplasia,47.55420705216837
+Gallbladder Adenoma,47.55420705216837
+IGF2,45.0
+Follicular Variant Thyroid Gland Papillary Carcinoma,44.97796675201776
+Differentiated thyroid carcinoma,44.97796675201776
+Vulvar Squamous Cell Carcinoma,43.37740708276927
+Malignant peripheral nerve sheath tumor,43.27509952892263
+Prostate Small Cell Carcinoma,40.10399100472
+Lung Sarcomatoid Carcinoma,36.79314778902702
+ovarian adenocarcinoma,36.14661369991709
+GLB1,36.0
+Hashimoto's thyroiditis,35.46151541359773
+Parotid Gland Adenoid Cystic Carcinoma,33.39599317719081
+Adrenal Gland Neuroblastoma,30.80492695732436
+Appendix Goblet Cell Carcinoid,29.594013397691157
+Juvenile Xanthogranuloma,29.594013397691157
+MATR3,29.0
+Angiofibroma,28.9016426307007
+marginal zone B-cell lymphoma,28.05981723017452
+Thyroid Gland Diffuse Large B-Cell Lymphoma,28.05981723017452
+INSR,28.0
+Anaplastic oligodendroglioma,25.936332602128907
+Anaplastic astrocytoma,25.936332602128907
+Bladder Small Cell Neuroendocrine Carcinoma,22.850131010643697
+Cervical Small Cell Carcinoma,22.575750540273162
+Pleural Mesothelioma,22.344459441560147
+desmoplastic medulloblastoma,22.344459441560147
+Malignant Ovarian Mixed Epithelial Tumor,22.344459441560147
+Extraskeletal Ewing Sarcoma/Peripheral Primitive Neuroectodermal Tumor,22.2896386796255
+Ovarian Carcinosarcoma,21.473183621126463
+PAH,21.0
+Medulloblastoma,20.527969497864735
+Signet Ring Cell Gastric Adenocarcinoma,20.527969497864735
+Medullomyoblastoma with Myogenic Differentiation,20.527969497864735
+Dedifferentiated liposarcoma,20.527969497864735
+unspecified peripheral T-cell lymphoma,20.07022933113611
+colonic neoplasm,19.98380576156287
+Testicular Embryonal Carcinoma,18.077447081311405
+Sinonasal Undifferentiated Carcinoma,16.50390757365346
+Ileal Neuroendocrine Tumor G1,16.396042435779545
+Adenoid Cystic Breast Carcinoma,15.73572324555624
+IFNG,15.0
+SPECC1L,15.0
+IL6,15.0
+FLNC,15.0
+PPP3CA,15.0
+Adult hepatocellular carcinoma,14.965529304581123
+"OVARIAN CANCER OVARIAN CANCER, EPITHELIAL, INCLUDED",13.637305188947693
+Ependymoma,13.499269463130618
+Undetermined early-onset epileptic encephalopathy,12.0
+Extramammary Paget Disease,11.488894380875097
+Borderline Ovarian Surface Epithelial-Stromal Tumor,11.488894380875097
+Familial isolated dilated cardiomyopathy,11.0
+GABRB2,11.0
+Kidney Medullary Carcinoma,10.881641567309083
+FN1,10.0
+HTRA2,10.0
+FOXG1,10.0
+IL2RA,10.0
+POLYCYTHEMIA VERA,8.34730334457504
+Malignant Urinary System Neoplasm,8.20233901811733
+pleomorphic liposarcoma,8.20233901811733
+HEPATOBLASTOMA,7.035363447278302
+Placental Choriocarcinoma,6.366769622578864
+UBB,6.0
+DLX3,6.0
+HTT,6.0
+TNFRSF1A,6.0
+GFI1B,6.0
+RASA1,6.0
+Parathyroid Gland Carcinoma,4.304315463017604
+Central Nervous System Lymphoma,3.7413915709558596
+Tonsillar Squamous Cell Carcinoma,3.710094452822954
+Bladder Squamous Cell Carcinoma,3.710094452822954
+Breast Cancer,3.214401785101942
+INVS,3.0
+PIK3CD,3.0
+LIPA,3.0
+LPAR6,3.0
+GFAP,3.0
+malignant epithelioid mesothelioma,2.791826585294422
+Blepharo-cheiro-dontic syndrome,1.3081413311983991
+Blepharo-cheilo-odontic syndrome,1.3081413311983991
+IGF1R,1.0
+ITGA2,1.0
+LSS,1.0
+PIKFYVE,1.0
+MAPK10,1.0
+CD81,1.0
+TECR,1.0
+VCAN,1.0
+ARL6IP1,1.0
+MVD,1.0
+AKR1C2,1.0
+VPS33A,1.0
+ABCB1,1.0
+Kidney Oncocytoma,0.808848890830815
+Malignant Germ Cell Tumor,0.6183195154825646
+pancreatic neoplasm,0.3858510412136055
+Spinal Cord Astrocytoma,0.32013900786015614
+Hidradenocarcinoma,0.10546337201484546
+Peritoneal Mesothelioma,0.10546337201484546
+Ductal Breast Carcinoma In Situ and Lobular Carcinoma In Situ,0.10546337201484546
+Atypical Lobular Breast Hyperplasia,0.10546337201484546
+ductal carcinoma in situ,0.10546337201484546
+Lobular Breast Carcinoma In Situ,0.10546337201484546
+pulmonary mucoepidermoid carcinoma,0.10546337201484546
+Tracheal Squamous Cell Carcinoma,0.10546337201484546
+Senior-Loken syndrome,0.0
+NEPHRONOPHTHISIS 2,0.0
+Infantile nephronophthisis,0.0
+smooth muscle tumor,0.0
+Parathyroid Hyperplasia,0.0
+Pancreatic Vipoma,0.0
+Lipoma,0.0
+CHONDROSARCOMA,0.0
+Multiple endocrine neoplasia type 1,0.0
+Pancreatic Gastrinoma,0.0
+Silent pituitary adenoma,0.0
+"MULTIPLE ENDOCRINE NEOPLASIA, TYPE I",0.0
+Mixed Somatotroph-Lactotroph Pituitary Gland Adenoma,0.0
+Null pituitary adenoma,0.0
+Duodenal Gastrin-Producing Neuroendocrine Tumor,0.0
+ACTH-Producing Pituitary Gland Adenoma,0.0
+pancreatic somatostatinoma,0.0
+Insulinoma,0.0
+Familial isolated hyperparathyroidism,0.0
+Pancreatic Glucagonoma,0.0
+Prolactinoma,0.0
+Prolactin-Producing Pituitary Gland Adenoma,0.0
+carcinoid tumor,0.0
+Non-phenylketonuria hyperphenylalaninemia,0.0
+Tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria,0.0
+Mild phenylketonuria,0.0
+Classic phenylketonuria,0.0
+Maternal phenylketonuria,0.0
+Mild hyperphenylalaninemia,0.0
+PHENYLKETONURIA,0.0
+Lynch syndrome,0.0
+MISMATCH REPAIR CANCER SYNDROME,0.0
+"COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 4",0.0
+Constitutional mismatch repair deficiency syndrome,0.0
+"IMMUNODEFICIENCY, DEVELOPMENTAL DELAY, AND HYPOHOMOCYSTEINEMIA",0.0
+Carcinoma,0.0
+IMMUNODEFICIENCY 14,0.0
+Combined immunodeficiency with faciooculoskeletal anomalies,0.0
+Activated PI3K-delta syndrome,0.0
+Prostate Cancer,0.0
+Endometrial Cancer,0.0
+Hereditary diffuse gastric cancer,0.0
+"GASTRIC CANCER, HEREDITARY DIFFUSE",0.0
+Cleft lip/palate,0.0
+BLEPHAROCHEILODONTIC SYNDROME 1,0.0
+Acute basophilic leukemia,0.0
+Submandibular Gland Adenoid Cystic Carcinoma,0.0
+Angiocentric glioma,0.0
+Lacrimal Gland Adenoid Cystic Carcinoma,0.0
+Precursor T-cell acute lymphoblastic leukemia,0.0
+Lysosomal acid lipase deficiency,0.0
+Cholesteryl ester storage disease,0.0
+WOLMAN DISEASE,0.0
+"INSULIN-LIKE GROWTH FACTOR I, RESISTANCE TO",0.0
+Growth delay due to insulin-like growth factor I resistance,0.0
+SOD2,0.0
+"MICROVASCULAR COMPLICATIONS OF DIABETES, SUSCEPTIBILITY TO, 6",0.0
+Testicular Teratoma,0.0
+Neurofibromatosis-Noonan syndrome,0.0
+Malignant Adrenal Gland Pheochromocytoma,0.0
+NEUROFIBROMATOSIS TYPE 1,0.0
+Teratoma with Malignant Transformation,0.0
+WATSON SYNDROME,0.0
+Malignant Paraganglioma,0.0
+Unclassified Renal Cell Carcinoma,0.0
+Familial spinal neurofibromatosis,0.0
+Brain Stem Glioblastoma,0.0
+17q11 microdeletion syndrome,0.0
+Plexiform neurofibroma,0.0
+Benign Adrenal Gland Pheochromocytoma,0.0
+Juvenile myelomonocytic leukemia,0.0
+neurofibroma,0.0
+"NEUROFIBROMATOSIS, FAMILIAL SPINAL",0.0
+ganglioneuroma,0.0
+Myelodysplastic/Myeloproliferative Neoplasm,0.0
+Neurofibromatosis type 1 due to NF1mutation or intragenic deletion,0.0
+17q11.2 microduplication syndrome,0.0
+Ovarian Granulosa Cell Tumor,0.0
+"NEUROFIBROMATOSIS, TYPE I",0.0
+"APLASTIC ANEMIA APLASTIC ANEMIA, SUSCEPTIBILITY TO, INCLUDED",0.0
+"HUMAN IMMUNODEFICIENCY VIRUS TYPE 1, SUSCEPTIBILITY TO",0.0
+"HEPATITIS C VIRUS, SUSCEPTIBILITY TO",0.0
+"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO MYCOBACTERIUM TUBERCULOSIS, PROTECTION AGAINST, INCLUDED",0.0
+Idiopathic aplastic anemia,0.0
+Tuberous sclerosis 2,0.0
+CD4,0.0
+OKT4 EPITOPE DEFICIENCY,0.0
+"Spondylometaphyseal dysplasia, 'corner fracture' type",0.0
+Spondylometaphyseal Dysplasia with Corner Fractures,0.0
+GLOMERULOPATHY WITH FIBRONECTIN DEPOSITS 2,0.0
+PLASMA FIBRONECTIN DEFICIENCY,0.0
+Fibronectin glomerulopathy,0.0
+CCNF,0.0
+Submucosal cleft palate,0.0
+Bifid uvula,0.0
+Cleft hard palate,0.0
+Cleft velum,0.0
+Hypomaturation-hypoplastic amelogenesis imperfecta with taurodontism,0.0
+TRICHODENTOOSSEOUS SYNDROME,0.0
+"AMELOGENESIS IMPERFECTA, TYPE IV",0.0
+Tricho-dento-osseous syndrome,0.0
+Fetal and neonatal alloimmune thrombocytopenia,0.0
+"BLEEDING DISORDER, PLATELET-TYPE, 9",0.0
+"FACIAL CLEFTING, OBLIQUE, 1",0.0
+"Hypertelorism, Teebi type",0.0
+Autosomal dominant Opitz G/BBB syndrome,0.0
+Tessier number 7 facial cleft,0.0
+"OPITZ GBBB SYNDROME, TYPE II",0.0
+Tessier number 4 facial cleft,0.0
+AMYOTROPHIC LATERAL SCLEROSIS 21,0.0
+Vocal cord and pharyngeal distal myopathy,0.0
+Systemic-onset juvenile idiopathic arthritis,0.0
+"DIABETES MELLITUS, INSULIN-DEPENDENT",0.0
+ARTERIOVENOUS MALFORMATIONS OF THE BRAIN,0.0
+INFLAMMATORY BOWEL DISEASE (CROHN DISEASE) 1,0.0
+"KAPOSI SARCOMA, SUSCEPTIBILITY TO",0.0
+"RHEUMATOID ARTHRITIS, SYSTEMIC JUVENILE",0.0
+THBS2,0.0
+INTERVERTEBRAL DISC DISEASE,0.0
+PPARGC1A,0.0
+Benign Ovarian Mucinous Tumor,0.0
+Total early-onset cataract,0.0
+Cataract 44,0.0
+BECKWITH-WIEDEMANN SYNDROME,0.0
+"Growth restriction, severe, with distinctive facies",0.0
+WILMS TUMOR 1,0.0
+SILVER-RUSSELL SYNDROME,0.0
+Isolated hemihyperplasia,0.0
+Silver-Russell syndrome due to an imprinting defect of 11p15,0.0
+Chromosome 11p15.5-Related Russell-Silver Syndrome,0.0
+Silver-Russell syndrome due to a point mutation,0.0
+Silver-Russell syndrome due to 11p15 microduplication,0.0
+Beckwith-Wiedemann syndrome due to imprinting defect of 11p15,0.0
+FLECK CORNEAL DYSTROPHY,0.0
+"CORNEAL DYSTROPHY, FLECK",0.0
+Permanent neonatal diabetes mellitus,0.0
+"MATURITY-ONSET DIABETES OF THE YOUNG, TYPE 2",0.0
+MODY,0.0
+"DIABETES MELLITUS, PERMANENT NEONATAL",0.0
+Hyperinsulinism due to glucokinase deficiency,0.0
+"HYPERINSULINEMIC HYPOGLYCEMIA, FAMILIAL, 3",0.0
+PPARG-related familial partial lipodystrophy,0.0
+"LIPODYSTROPHY, FAMILIAL PARTIAL, TYPE 3",0.0
+CAROTID INTIMAL MEDIAL THICKNESS 1,0.0
+Giant cell glioblastoma,0.0
+"OBESITY LEANNESS, INCLUDED",0.0
+Berardinelli-Seip congenital lipodystrophy,0.0
+PTPN1,0.0
+TNK2,0.0
+Infantile-onset mesial temporal lobe epilepsy with severe cognitive regression,0.0
+"MYOCARDIAL INFARCTION, SUSCEPTIBILITY TO MYOCARDIAL INFARCTION, SUSCEPTIBILITY TO, 1, INCLUDED",0.0
+Usual Ductal Breast Hyperplasia,0.0
+Estrogen resistance syndrome,0.0
+"MIGRAINE WITH OR WITHOUT AURA, SUSCEPTIBILITY TO, 1",0.0
+ESTROGEN RESISTANCE,0.0
+Woolly hair,0.0
+Hypotrichosis simplex,0.0
+HYPOTRICHOSIS 8,0.0
+Juvenile Huntington disease,0.0
+HUNTINGTON DISEASE,0.0
+LOPES-MACIEL-RODAN SYNDROME,0.0
+Obsessive-compulsive disorder,0.0
+"Cardiomyopathy, familial hypertrophic, 26",0.0
+Distal myopathy with posterior leg and anterior hand involvement,0.0
+"MYOPATHY, DISTAL, 4",0.0
+Muscle filaminopathy,0.0
+Familial isolated restrictive cardiomyopathy,0.0
+"MYOPATHY, MYOFIBRILLAR, 5",0.0
+Fibrolamellar Carcinoma,0.0
+Fibrolamellar hepatocellular carcinoma,0.0
+"BASAL GANGLIA CALCIFICATION, IDIOPATHIC, 4",0.0
+Myeloid/lymphoid neoplasm associated with PDGFRB rearrangement,0.0
+Myeloproliferative disorder,0.0
+Skeletal overgrowth-craniofacial dysmorphism-hyperelastic skin-white matter lesions syndrome,0.0
+"MYOFIBROMATOSIS, INFANTILE, 1",0.0
+Kosaki overgrowth syndrome,0.0
+"BASAL GANGLIA CALCIFICATION, IDIOPATHIC, 1",0.0
+Familial Infantile Myofibromatosis,0.0
+"PREMATURE AGING SYNDROME, PENTTINEN TYPE",0.0
+Infantile myofibromatosis,0.0
+Bilateral striopallidodentate calcinosis,0.0
+"MYELOPROLIFERATIVE DISORDER, CHRONIC, WITH EOSINOPHILIA",0.0
+"Chronic myeloproliferative disease, unclassifiable",0.0
+Primary hypereosinophilic syndrome,0.0
+Acroosteolysis-keloid-like lesions-premature aging syndrome,0.0
+"MENTAL RETARDATION, AUTOSOMAL DOMINANT 36",0.0
+Maxillary Sinus Adenoid Cystic Carcinoma,0.0
+Intellectual disability,0.0
+Cervical Clear Cell Adenocarcinoma,0.0
+Microcephaly-corpus callosum hypoplasia-intellectual disability-facial dysmorphism syndrome,0.0
+Thymoma Type B3,0.0
+SHROOM3,0.0
+Neural tube defect,0.0
+Epileptic encephalopathy Lennox-Gastaut type,0.0
+Lennox-Gastaut syndrome,0.0
+BLEPHAROCHEILODONTIC SYNDROME 2,0.0
+AIMP2,0.0
+"LEUKODYSTROPHY, HYPOMYELINATING, 17",0.0
+Young-onset Parkinson disease,0.0
+3-methylglutaconic aciduria type 8,0.0
+"PARKINSON DISEASE 13, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",0.0
+"3-METHYLGLUTACONIC ACIDURIA, TYPE VIII",0.0
+Early-onset mitochondrial syndrome associated with 3-methylglutaconic aciduria,0.0
+Tuberous sclerosis 1,0.0
+Pineal Parenchymal Tumor of Intermediate Differentiation,0.0
+Tuberous sclerosis complex,0.0
+dedifferentiated chondrosarcoma,0.0
+Thymic Carcinoma,0.0
+LYMPHANGIOLEIOMYOMATOSIS,0.0
+Benign Brain Neoplasm,0.0
+TUBEROUS SCLEROSIS TYPE 1,0.0
+Isolated focal cortical dysplasia type IIb,0.0
+fibroma,0.0
+"FOCAL CORTICAL DYSPLASIA, TYPE II",0.0
+Solitary fibrous tumor,0.0
+Splenic Diffuse Large B-Cell Lymphoma,0.0
+Dedifferentiated Solitary Fibrous Tumor,0.0
+Cutaneous Follicular Lymphoma,0.0
+"Atrial septal defect, ostium secundum type",0.0
+Familial sick sinus syndrome,0.0
+ATRIAL SEPTAL DEFECT 3,0.0
+"CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 14",0.0
+"CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 1",0.0
+"SICK SINUS SYNDROME 3, SUSCEPTIBILITY TO",0.0
+ATRIAL SEPTAL DEFECT TYPE 3,0.0
+CARDIOMYOPATHY DILATED TYPE 1EE,0.0
+"CARDIOMYOPATHY, DILATED, 1EE",0.0
+CARDIOMYOPATHY FAMILIAL HYPERTROPHIC TYPE 14,0.0
+"IMMUNODEFICIENCY, COMMON VARIABLE, 6",0.0
+Common variable immunodeficiency,0.0
+TBC1D4,0.0
+"DIABETES MELLITUS, NONINSULIN-DEPENDENT, 5",0.0
+"MENTAL RETARDATION, AUTOSOMAL RECESSIVE 14",0.0
+Autosomal recessive non-syndromic intellectual disability,0.0
+ACAT2,0.0
+ACETYL-CoA ACETYLTRANSFERASE-2 DEFICIENCY,0.0
+Thyroid Gland Mucosa-Associated Lymphoid Tissue Lymphoma,0.0
+TCF20,0.0
+TCF20 syndrome,0.0
+"Rett syndrome, congenital variant",0.0
+14q11.2 microduplication syndrome,0.0
+CONGENITAL VARIANT OF RETT SYNDROME,0.0
+Atypical Rett syndrome,0.0
+14q12 microdeletion syndrome,0.0
+Cerebellar dysplasia with cysts with or without retinal dystrophy,0.0
+Ataxia-intellectual disability-oculomotor apraxia-cerebellar cysts syndrome,0.0
+Poretti-boltshauser syndrome,0.0
+Wagner disease,0.0
+WAGNER VITREORETINOPATHY,0.0
+"SPASTIC PARAPLEGIA 61, AUTOSOMAL RECESSIVE",0.0
+Autosomal recessive spastic paraplegia type 61,0.0
+Disseminated superficial actinic porokeratosis,0.0
+"Porokeratosis 7, multiple types",0.0
+Acrodysostosis,0.0
+Testicular Large Cell Calcifying Sertoli Cell Tumor,0.0
+schwannoma,0.0
+"MYXOMA, INTRACARDIAC",0.0
+Carney complex,0.0
+"PIGMENTED NODULAR ADRENOCORTICAL DISEASE, PRIMARY, 1",0.0
+Acrodysostosis with multiple hormone resistance,0.0
+ACRODYSOSTOSIS 1 WITH OR WITHOUT HORMONE RESISTANCE,0.0
+Familial atrial myxoma,0.0
+Primary pigmented nodular adrenocortical disease,0.0
+Growth Hormone-Producing Pituitary Gland Adenoma,0.0
+"Carney complex, type 1",0.0
+ACUTE PROMYELOCYTIC LEUKEMIA,0.0
+Epilepsy and intellectual disability,0.0
+"EPILEPTIC ENCEPHALOPATHY, INFANTILE OR EARLY CHILDHOOD, 2",0.0
+Rheumatoid factor-negative juvenile idiopathic arthritis,0.0
+Oligoarticular juvenile idiopathic arthritis,0.0
+Immunodeficiency due to CD25 deficiency,0.0
+IMMUNODEFICIENCY 41 WITH LYMPHOPROLIFERATION AND AUTOIMMUNITY,0.0
+"DIABETES MELLITUS, INSULIN-DEPENDENT, 10",0.0
+"46,XY disorder of sex development due to testicular 17,20-desmolase deficiency",0.0
+"46,XY SEX REVERSAL 8",0.0
+IL11,0.0
+Craniosynostosis and dental anomalies,0.0
+Tumor necrosis factor receptor 1 associated periodic syndrome,0.0
+"MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 5",0.0
+Intermittent hydrarthrosis,0.0
+"PERIODIC FEVER, FAMILIAL, AUTOSOMAL DOMINANT",0.0
+GM1-GANGLIOSIDOSIS TYPE 1,0.0
+GM1 gangliosidosis type 1,0.0
+GM1 gangliosidosis type 3,0.0
+Mucopolysaccharidosis type 4B,0.0
+"MUCOPOLYSACCHARIDOSIS, TYPE IVB",0.0
+GM1 gangliosidosis type 2,0.0
+"GM1-GANGLIOSIDOSIS, TYPE II",0.0
+"GM1-GANGLIOSIDOSIS, TYPE III",0.0
+"GM1-GANGLIOSIDOSIS, TYPE I",0.0
+Autosomal recessive primary microcephaly,0.0
+"Microcephaly 12, primary, autosomal recessive",0.0
+PSMB4,0.0
+PROTEASOME-ASSOCIATED AUTOINFLAMMATORY SYNDROME 3,0.0
+TGFBR3,0.0
+Familial cerebral saccular aneurysm,0.0
+brain neoplasm,0.0
+"DIABETES MELLITUS, INSULIN-RESISTANT, WITH ACANTHOSIS NIGRICANS",0.0
+"Insulin resistance syndrome, type A",0.0
+DONOHUE SYNDROME,0.0
+RABSON-MENDENHALL SYNDROME,0.0
+"HYPERINSULINEMIC HYPOGLYCEMIA, FAMILIAL, 5",0.0
+Hyperinsulinism due to INSR deficiency,0.0
+Leprechaunism,0.0
+"PINEAL HYPERPLASIA, INSULIN-RESISTANT DIABETES MELLITUS, AND SOMATIC ABNORMALITIES",0.0
+ANKRD1,0.0
+OSTEOGENIC SARCOMA,0.0
+Rectal Tubular Adenoma,0.0
+Monosomy 13q14,0.0
+RETINOBLASTOMA,0.0
+Hereditary retinoblastoma,0.0
+Small cell lung cancer,0.0
+Bladder Cancer,0.0
+Non-hereditary retinoblastoma,0.0
+Small cell cancer of the lung,0.0
+Pancreatic Small Cell Neuroendocrine Carcinoma,0.0
+Basaloid Carcinoma,0.0
+cervical carcinoma,0.0
+Pancreatic Large Cell Neuroendocrine Carcinoma,0.0
+Lung Giant Cell Carcinoma,0.0
+Kidney Angiomyolipoma,0.0
+Fibroadenoma,0.0
+Fallopian Tube Serous Adenocarcinoma,0.0
+MUCOPOLYSACCHARIDOSIS-PLUS SYNDROME,0.0
+Mucopolysaccharidosis-like syndrome with congenital heart defects and hematopoietic disorders,0.0
+Cervical Adenosquamous Carcinoma,0.0
+breast adenosis,0.0
+Gastric Mantle Cell Lymphoma,0.0
+Secretory Meningioma,0.0
+Rolandic epilepsy,0.0
+Landau-Kleffner syndrome,0.0
+"Epilepsy, focal, with speech disorder and with or without mental retardation",0.0
+renal carcinoma,0.0
+Rolandic epilepsy-speech dyspraxia syndrome,0.0
+Early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation,0.0
+Epilepsy with neurodevelopmental defects,0.0
+Continuous spikes and waves during sleep,0.0
+Alexander disease,0.0
+Alexander disease type II,0.0
+Alexander disease type I,0.0
+Haddad syndrome,0.0
+"CENTRAL HYPOVENTILATION SYNDROME, CONGENITAL",0.0
+Microcephaly-corpus callosum and cerebellar vermis hypoplasia-facial dysmorphism-intellectual disability syndrom,0.0
+"MENTAL RETARDATION, AUTOSOMAL DOMINANT 48",0.0
+Developmental Disorders with Diverse Phenotypes,0.0
+Severe intellectual disability-progressive spastic diplegia syndrome,0.0
+Ovarian Mixed Epithelial Tumor,0.0
+Salivary Gland Pleomorphic Adenoma,0.0
+"MENTAL RETARDATION, AUTOSOMAL DOMINANT 19",0.0
+Testicular Granulosa Cell Tumor,0.0
+Calcifying Nested Epithelial Stromal Tumor of the Liver,0.0
+Pancreatoblastoma,0.0
+Testicular Sclerosing Sertoli Cell Tumor,0.0
+Pilomatrixoma,0.0
+hyperplasia,0.0
+Solid Pseudopapillary Neoplasm of the Pancreas,0.0
+desmoplastic fibroma,0.0
+Non-Functioning Adrenal Cortex Adenoma,0.0
+spindle cell tumor,0.0
+Testicular Sertoli Cell Tumor,0.0
+Complex Endometrial Hyperplasia,0.0
+Appendix Neuroendocrine Tumor G1,0.0
+Ovarian Endometriosis,0.0
+Gastric Adenoma,0.0
+Major Salivary Gland Carcinoma,0.0
+Pediatric hepatocellular carcinoma,0.0
+Adenosquamous Carcinoma,0.0
+Endometrial Stromal Nodule,0.0
+Salivary Gland Basal Cell Adenocarcinoma,0.0
+monophasic synovial sarcoma,0.0
+Sarcoma,0.0
+Familial exudative vitreoretinopathy,0.0
+Desmoid tumor,0.0
+EXUDATIVE VITREORETINOPATHY 7,0.0
+Gastric Hamartomatous Polyp,0.0
+Colorectal Neuroendocrine Tumor G1,0.0
+Borderline Ovarian Endometrioid Tumor,0.0
+Primary Intraosseous Squamous Cell Carcinoma,0.0
+Ovarian Microcystic Stromal Tumor,0.0
+hepatocellular adenoma,0.0
+Colorectal Hamartoma,0.0
+skin appendage carcinoma,0.0
+Endometrial Squamous Cell Carcinoma,0.0
+Fibrosarcoma,0.0
+Colorectal Cancer,0.0
+Benign Ovarian Brenner Tumor,0.0
+INFLAMMATORY BOWEL DISEASE 13,0.0
+COLCHICINE RESISTANCE,0.0
+Adult-onset distal myopathy due to VCP mutation,0.0
+Inclusion body myopathy with Paget disease of bone and frontotemporal dementia,0.0
+Spastic paraplegia-Paget disease of bone syndrome,0.0
+AMYOTROPHIC LATERAL SCLEROSIS 14 WITH OR WITHOUT FRONTOTEMPORAL DEMENTIA,0.0
+Frontotemporal dementia with motor neuron disease,0.0
+INCLUSION BODY MYOPATHY WITH EARLY-ONSET PAGET DISEASE WITH OR WITHOUT FRONTOTEMPORAL DEMENTIA 1,0.0
+Behavioral variant of frontotemporal dementia,0.0
+Progressive non-fluent aphasia,0.0
+Autosomal dominant Charcot-Marie-Tooth disease type 2Y,0.0
+"CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2Y",0.0
+GRAY PLATELET SYNDROME,0.0
+Autosomal dominant macrothrombocytopenia,0.0
+Alpha delta granule deficiency,0.0
+"BLEEDING DISORDER, PLATELET-TYPE, 17",0.0
+CAPILLARY MALFORMATION-ARTERIOVENOUS MALFORMATION,0.0
+CAPILLARY MALFORMATION-ARTERIOVENOUS MALFORMATION 1,0.0
+PARKES WEBER SYNDROME,0.0
+"BASAL CELL CARCINOMA, SUSCEPTIBILITY TO, 1",0.0
+malignant rhabdoid tumour,0.0
+Rectal Hyperplastic Polyp,0.0
+LEOPARD SYNDROME TYPE 3,0.0
+Histiocytic and Dendritic Cell Neoplasm,0.0
+Ameloblastic Carcinoma,0.0
+LEOPARD SYNDROME 3,0.0
+Borderline Ovarian Mucinous Tumor,0.0
+testicular neoplasm,0.0
+Endometrial Mucinous Adenocarcinoma,0.0
+Testicular Yolk Sac Tumor,0.0
+Hyperplastic Polyp,0.0
+Colorectal Serrated Adenocarcinoma,0.0
+Metanephric Adenoma,0.0
+Classic hairy cell leukemia,0.0
+chronic pancreatitis,0.0
+Anal Melanoma,0.0
+NOONAN SYNDROME 7,0.0
+CARDIOFACIOCUTANEOUS SYNDROME,0.0
+Conjunctival Nevus,0.0
+"LUNG CANCER ALVEOLAR CELL CARCINOMA, INCLUDED",0.0
+Breast Diffuse Large B-Cell Lymphoma,0.0
+breast tumor luminal,0.0
+amelanotic skin melanoma,0.0
+Bile Duct Adenoma,0.0
+Langerhans Cell Histiocytosis,0.0
+Pilomyxoid astrocytoma,0.0
+Small Intestinal Diffuse Large B-Cell Lymphoma,0.0
+Hashimoto-Pritzker syndrome,0.0
+Syringocystadenoma Papilliferum,0.0
+Cecum Villous Adenoma,0.0
+Desmoplastic Ameloblastoma,0.0
+Kaposi's sarcoma,0.0
+Jejunal Neuroendocrine Tumor G1,0.0
+dysembryoplastic neuroepithelial tumor,0.0
+Primary Pulmonary Diffuse Large B-Cell Lymphoma,0.0
+NOONAN SYNDROME 1,0.0
+Oligodendroglioma,0.0
+brain glioblastoma,0.0
+Tenosynovial Giant Cell Tumor,0.0
+Papillary Craniopharyngioma,0.0
+NOONAN SYNDROME TYPE 7,0.0
+intradermal nevus,0.0
+B-cell non-Hodgkins lymphoma,0.0
+Digestive System Carcinoma,0.0
+Uveal melanoma,0.0
+Lung Signet Ring Cell Carcinoma,0.0
+Thyroid Gland Squamous Cell Carcinoma,0.0
+Rectal Villous Adenoma,0.0
+Adenocarcinoma,0.0
+dysplastic nevus,0.0
+ganglioglioma,0.0
+CARDIOFACIOCUTANEOUS SYNDROME 1,0.0
+Salivary Gland Large Cell Carcinoma,0.0
+Anaplastic oligoastrocytoma,0.0
+B-Cell Prolymphocytic Leukemia,0.0
+Nasal Cavity Polyp,0.0
+Rhabdoid Meningioma,0.0
+T-cell prolymphocytic leukemia,0.0
+Micropapillary Serous Carcinoma,0.0
+Epithelioid Cell Uveal Melanoma,0.0
+Spindle Cell Melanoma,0.0
+Mixed Cell Uveal Melanoma,0.0
+Colorectal Sessile Serrated Adenoma/Polyp,0.0
+Noonan Syndrome,0.0
+Noonan syndrome with multiple lentigines,0.0
+EMG1,0.0
+BOWEN-CONRADI SYNDROME,0.0
+Severe Neurodevelopmental Disease with Seizures,0.0
+"EPILEPTIC ENCEPHALOPATHY, INFANTILE OR EARLY CHILDHOOD, 1",0.0
+Autosomal dominant non-syndromic intellectual disability,0.0
